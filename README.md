@@ -9,6 +9,7 @@
 * [firearms](https://github.com/data-visualisation-group-three/raw-data/tree/master/firearms)
 * [homicides](https://github.com/data-visualisation-group-three/raw-data/tree/master/homicides)
 * [populations](https://github.com/data-visualisation-group-three/raw-data/tree/master/populations)
+* [violence per country](https://github.com/data-visualisation-group-three/raw-data/tree/master/violence_per_country)
 
 Each of the three folders named above contains separate `american.*` and `swiss.*` datasets. 
 Each of the folders also contain a `README.md` file listing the web addresses from where the datasets were retrieved.
